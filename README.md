@@ -6,16 +6,15 @@ This project demonstrates an end-to-end (E2E) purchase workflow automation using
 
 ## Project Structure
 
-cypress-e2e-purchase-flow
-├── cypress
-│   ├── e2e
-│   │   └── PurchaseTest.js       # Main test file for purchase flow
-│   ├── pageObjects
-│   │   ├── LoginPage.js          # Handles login actions
-│   │   ├── ProductPage.js        # Handles product interactions
-│   │   ├── CartPage.js           # Manages cart actions
-│   │   └── CheckoutPage.js       # Manages checkout process
-└── README.md                     # Project documentation
+cypress-e2e-purchase-flow                                                                                                                                                                                                                                                    
+├── cypress                                                                                                                                                                                                                                                                  
+│   ├── e2e                                                                                                                                                                                                                                                                  
+│   │   └── PurchaseTest.js       # Main test file for purchase flow                                                                                                                                                                                                         
+│   ├── POM                                                                                                                                                                                                                                                          
+│   │   ├── LoginPage.js          # Handles login actions                                                                                                                                                                                                                    
+│   │   ├── ProductPage.js        # Handles product interactions                                                                                                                                                                                                             
+│   │   ├── CartPage.js           # Manages cart actions                                                                                                                                                                                                                     
+│   │   └── CheckoutPage.js       # Manages checkout process                                                                                                                                                                                                                 └── README.md                     # Project documentation                                                                                                                                                                                                                      
 
 
 ## Test Flow
