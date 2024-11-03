@@ -1,0 +1,24 @@
+{
+    "loginpage":{
+        "name":"Jagadish",
+        "password":12345,
+        "successmessage":"Welcome back jagadish"
+    },
+    "productpage":{
+        "searchproduct":"[alt='blue cotton t-shirt']",
+        "color":0,
+        "quantity":3,
+        "addedProductname":"Casual 3/4 Sleeve Baseball T-Shirt"
+
+    },
+    "cartpage":{
+        "productcolor":"blue cotton t-shirt",
+        "productname":"Casual 3/4 Sleeve Baseball T-Shirt",
+        "productmodel":"LTQFX",
+        "productquantity":3
+    },
+    "checkoutpage":{
+        "urlinclude":"checkout/success",
+        "successmessage":"Your Order Has Been Processed!"
+    }
+}
